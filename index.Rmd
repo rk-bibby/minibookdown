@@ -1,6 +1,6 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "An analysis of kaka in Karori"
+author: "Rhonda Grantham"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
